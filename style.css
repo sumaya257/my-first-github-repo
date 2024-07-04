@@ -1,3 +1,11 @@
 div{
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    height: max-content;
+    width: max-content;
+    margin: 50px;
+    margin-left: 300px;
     background-color: orchid
+    
+    
 }
